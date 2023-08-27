@@ -1,2 +1,2 @@
-# polytech
-폴리텍에서의 프로젝트들
+# polytech_portfolio
+폴리텍 포트폴리오
